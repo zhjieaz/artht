@@ -17,4 +17,5 @@ Description de ce repository
 ----------------------------
 
 Il contient Les modifications importantes et surtout la version principale de l'application : validée.
+Pour l'instant je suis le seul à y avoir accès (Tony). j'effectue les fusions (merges) de versions sur ce répertoire.
 
