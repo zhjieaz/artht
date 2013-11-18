@@ -1,5 +1,5 @@
-Main
-====
+Master
+======
 
 Description
 -----------
@@ -13,9 +13,9 @@ Description
   Nous sommes responsable de la partie communication.
 
 
-Description de ce repository
+Description de cette branche
 ----------------------------
 
-Il contient Les modifications importantes et surtout la version principale de l'application : validée.
-Pour l'instant je suis le seul à y avoir accès (Tony). j'effectue les fusions (merges) de versions sur ce répertoire.
+Cette branche contient le travail en cours sur l'application. Toutes les requêtes de fusions sont faites ici sans phases 
+de tests.
 
