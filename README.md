@@ -4,5 +4,5 @@ Staging
 Description
 -----------
 
-  - <TODO>
+  - TODO
 
