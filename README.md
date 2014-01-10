@@ -1,7 +1,7 @@
 Master
 ======
 
-Description
+Descriptions
 -----------
 
   - Qui sommes Nous
